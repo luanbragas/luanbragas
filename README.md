@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções reais. Atualmente participo do **TIC55 (Residência em TI - Unisinos)**, onde venho aprimorando minhas habilidades em desenvolvimento web e boas práticas de programação.  
 
-💡 Tenho experiência prática em **React, Next.js, Node.js, TailwindCSS e Firebase Storage**, com projetos que vão desde sistemas de gerenciamento até aplicativos para eventos esportivos.
+💡 Tenho experiência prática em **React, Next.js, Node.js, TailwindCSS e Firebase**, com projetos que vão desde sistemas de gerenciamento até aplicativos para eventos esportivos.
 
 ---
 
